@@ -32,7 +32,10 @@ The project also includes interactive input using clicks and long presses.
 
 ## Screenshot
 
+Morse to Text
 ![Morse Code Translator](screenshots/screenshot1.jpg)
+
+Text to Morse
 ![Morse Code Translator](screenshots/screenshot2.jpg)
 
 ## Purpose
