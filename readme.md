@@ -12,7 +12,7 @@ The project also includes interactive input using clicks and long presses.
 
 ## Tech Stack
 - Programming Language: Python
-- Framework / Library: Tkinter
+- Framework / Library: Tkinter GUI
 
 ## Getting Started
 
