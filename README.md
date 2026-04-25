@@ -32,8 +32,8 @@ The project also includes interactive input using clicks and long presses.
 
 ## Screenshot
 
-![Morse Code Translator](screenshots/screenshot1.png)
-![Morse Code Translator](screenshots/screenshot2.png)
+![Morse Code Translator](screenshots/screenshot1.jpg)
+![Morse Code Translator](screenshots/screenshot2.jpg)
 
 ## Purpose
 This project was created to practice string manipulation, event handling, and interactive input handling.  
