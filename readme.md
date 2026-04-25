@@ -11,8 +11,8 @@ The project also includes interactive input using clicks and long presses.
 - Simple and interactive interface
 
 ## Tech Stack
-- Programming Language: [Your Language Here]
-- Framework / Library: [If any]
+- Programming Language: Python
+- Framework / Library: Tkinter
 
 ## Getting Started
 
